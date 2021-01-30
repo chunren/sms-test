@@ -1,6 +1,6 @@
 # SMS test program with Azure Communication Services
 
-This test program demonstrate how to send an SMS message by Azure Communication Services.
+This test program demonstrates how to send an SMS message by Azure Communication Services.
 
 This requires:
 1. You will need an Azure account.
